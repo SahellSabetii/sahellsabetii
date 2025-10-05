@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Web programming, Software Engineering and Android Development.**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [[portfolio](https://sahellsabetii.github.io/portfolio/)]
 
 - 📫 How to reach me **sabetisahel@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [[resume](https://github.com/user-attachments/files/22711690/cv.pdf)]
 
 <p align="left">
 </p>
